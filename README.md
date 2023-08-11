@@ -1,16 +1,59 @@
-### Hi there 👋
+```php
+<?php
 
-<!--
-**yakshjethva/yakshjethva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+namespace yakshjethva;
 
-Here are some ideas to get you started:
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Actively looking to join',
+                'position' => ''         
+            ]
+        ];
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public function getPreviousWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'name' => 'Briskstar',
+                'course' => 'PHP/WordPress Developer'         
+            ]
+        ];
+    }
+
+    public function getCurrentEducation(): array
+    {
+        return [
+            'education' => [
+                'name' => 'Fanshawe College',
+                'course' => 'Mobile Application Development'         
+            ]
+        ];
+    }
+
+    
+    
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Angular::class,
+            Codeigniter::class,
+            Aws::class,
+            MySQL::class,
+            NodeJS::class
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To work on an open source project';
+    }
+}
+```
