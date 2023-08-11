@@ -34,8 +34,6 @@ class About extends Me
             ]
         ];
     }
-
-    
     
     public function getDailyKnowledge(): array
     {
