@@ -74,3 +74,7 @@ class About extends Me
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 
+![](https://komarev.com/ghpvc/?username=yakshjethva&color=dc143c)
+[![Linkedin: yakshjethva](https://img.shields.io/badge/-YakshJethva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/yakshjethva/](https://www.linkedin.com/in/yakshjethva)](https://www.linkedin.com/in/yakshjethva))](https://www.linkedin.com/in/yakshjethva/)
+![GitHub followers](https://img.shields.io/github/followers/yakshjethva?label=Follow&style=social)
+
