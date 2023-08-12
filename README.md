@@ -30,7 +30,8 @@ class About extends Me
         return [
             'education' => [
                 'name' => 'Fanshawe College',
-                'course' => 'Mobile Application Development'         
+                'course' => 'Mobile Application Development',
+                'duration' => 'May-2023 to Sept-2024'        
             ]
         ];
     }
