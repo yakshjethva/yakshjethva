@@ -20,7 +20,7 @@ class About extends Me
         return [
             'workplace' => [
                 'name' => 'Briskstar',
-                'course' => 'PHP/WordPress Developer'         
+                'course' => 'Software Development Engineer'         
             ]
         ];
     }
@@ -30,12 +30,21 @@ class About extends Me
         return [
             'education' => [
                 'name' => 'Fanshawe College',
-                'course' => 'Mobile Application Development',
-                'duration' => 'May-2023 to Sept-2024'        
+                'course' => 'Mobile Application Development', 
             ]
         ];
     }
-    
+
+    public function getHighestEducation(): array
+    {
+        return [
+            'education' => [
+                'name' => 'Gujarat Technological University',
+                'course' => 'Computer Engineering',
+                'degree' => "Bachelor's",
+            ]
+        ];
+    }
     public function getDailyKnowledge(): array
     {
         return [
