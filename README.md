@@ -1,89 +1,32 @@
-```php
-<?php
+# 👋 Hi there! I'm Yaksh Jethva
 
-namespace yakshjethva;
+I'm a Java developer with over 4 years of experience in building scalable and efficient applications. My journey in software development has equipped me with a strong foundation in various technologies, frameworks, and tools. Here’s a bit more about me:
 
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Actively looking to join',
-                'position' => ''         
-            ]
-        ];
-    }
+## 🌱 About Me
 
-    public function getPreviousWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'name' => 'Briskstar',
-                'course' => 'Software Development Engineer'         
-            ]
-        ];
-    }
+- **Location**: Canada
+- **Experience**: Full-Stack Java Development, specializing in:
+  - **Java Technologies**: Java, J2EE, SpringBoot, Hibernate
+  - **Front-End Frameworks**: React JS, Angular, Bootstrap
+  - **Cloud Platforms**: AWS, Google Cloud Platform, Microsoft Azure
+  - **Databases**: SQL, MySQL, Oracle, Sybase, MongoDB, PostgreSQL, DynamoDB
+  - **DevOps Tools**: Jenkins, GitHub, GitLab, Docker
+- **Software Development**: Strong expertise in designing and developing RESTful APIs, microservices architecture, and implementing design patterns.
 
-    public function getCurrentEducation(): array
-    {
-        return [
-            'education' => [
-                'name' => 'Fanshawe College',
-                'course' => 'Mobile Application Development', 
-            ]
-        ];
-    }
+## 🚀 Skills
 
-    public function getHighestEducation(): array
-    {
-        return [
-            'education' => [
-                'name' => 'Gujarat Technological University',
-                'course' => 'Computer Engineering',
-                'degree' => "Bachelor's",
-            ]
-        ];
-    }
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Angular::class,
-            Codeigniter::class,
-            Aws::class,
-            MySQL::class,
-            NodeJS::class
-        ];
-    }
+- **Programming Languages**: Java, JavaScript, PHP, Python
+- **Web Technologies**: HTML5, CSS3, jQuery, NodeJS
+- **Testing Frameworks**: JUnit, Mockito
+- **Version Control**: GIT, Bitbucket
 
-    public function getFutureGoal(): string
-    {
-        return 'To work on an open source project';
-    }
-}
-```
+## 📫 Connect with Me
 
-**Tools & Languages**  
+- **LinkedIn**: [Yaksh Jethva](https://www.linkedin.com/in/yakshjethva/)
+- **Email**: [yakshjethva_123@yahoo.com](mailto:yakshjethva_123@yahoo.com)
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
+---
 
-![](https://komarev.com/ghpvc/?username=yakshjethva&color=dc143c)
-[![Linkedin: yakshjethva](https://img.shields.io/badge/-YakshJethva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/yakshjethva/](https://www.linkedin.com/in/yakshjethva)](https://www.linkedin.com/in/yakshjethva))](https://www.linkedin.com/in/yakshjethva/)
-![GitHub followers](https://img.shields.io/github/followers/yakshjethva?label=Follow&style=social)
-
+Happy coding! 🚀
