@@ -24,6 +24,8 @@ I'm a Java developer with over 4 years of experience in building scalable and ef
 
 - **LinkedIn**: [Yaksh Jethva](https://www.linkedin.com/in/yakshjethva/)
 - **Email**: [yakshjethva_123@yahoo.com](mailto:yakshjethva_123@yahoo.com)
+- **Website**: [Yaksh Jehtva](https://www.yaksh.tech)
+
 
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
 
